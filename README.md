@@ -3,7 +3,7 @@ Hello, I'm Aksh. CS student at IIIT Jabalpur. I build AI agents and full-stack a
 ## Projects
 
 - [Patent FTO Analyzer](https://github.com/w-2006-aksh/patent-fto-analyzer): agentic AI pipeline in LangGraph that does patent freedom-to-operate analysis. [Live](https://patent-fto-analyzer.vercel.app)
-- [Freight Management Platform](https://github.com/w-2006-aksh/freight-management-platform): invite-only freight marketplace with a React web app and Node backend. 
+- [Freight Management Platform](https://github.com/w-2006-aksh/freight-management-platform): invite-only freight marketplace with a React web app and Node backend. [Demo](https://youtu.be/e_ZwZLEQi1I)
 - [Freight Driver App](https://github.com/w-2006-aksh/freight-driver-app): Flutter driver app with live GPS tracking
 
 ## Links
